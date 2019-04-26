@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+const Discord = require('bt.js');
 const client = new Discord.Client();
 
 exports.run = async (client, message, args) => {
